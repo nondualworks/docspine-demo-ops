@@ -4,5 +4,4 @@ theme:
 nav:
   - Home: index.md
   - Reference: reference/
-strict: true
 docs_dir: docs
