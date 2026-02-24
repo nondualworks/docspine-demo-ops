@@ -6,5 +6,4 @@ nav:
   - How-To: how-to/
   - Reference: reference/
   - Explanation: explanation/
-strict: true
 docs_dir: docs
