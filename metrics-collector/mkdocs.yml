@@ -1,0 +1,8 @@
+site_name: Metrics Collector
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Reference: reference/
+strict: true
+docs_dir: docs
