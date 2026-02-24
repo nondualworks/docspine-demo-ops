@@ -7,3 +7,4 @@ nav:
   - Reference: reference/
   - Explanation: explanation/
 strict: true
+docs_dir: .
