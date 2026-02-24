@@ -2,10 +2,10 @@
 # See: https://nondualworks.github.io/docspine/reference/manifest-schema/
 
 docs-build:
-    cd docs && mkdocs build --site-dir ../site
+    mkdocs build --site-dir site
 
 docs-serve:
-    cd docs && mkdocs serve --dev-addr 0.0.0.0:8000
+    mkdocs serve --dev-addr 0.0.0.0:8000
 
 docs-check:
-    cd docs && mkdocs build --strict --site-dir ../site
+    mkdocs build --strict --site-dir site
